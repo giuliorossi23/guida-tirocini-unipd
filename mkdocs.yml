@@ -18,8 +18,9 @@ theme:
         icon: material/brightness-4
         name: Passa alla modalità chiara
   features:
-    - navigation.top
+    - navigation.tabs
     - navigation.instant
+    - toc.integrate
 
 markdown_extensions:
   - admonition
@@ -27,3 +28,9 @@ markdown_extensions:
   - pymdownx.superfences
   - tables
   - attr_list
+
+nav:
+  - "1. Introduzione e Ricerca": index.md
+  - "2. Attivazione (Sicurezza e Burocrazia)": attivazione.md
+  - "3. Durante e Fine Tirocinio": svolgimento.md
+  - "4. Contatti e Link Utili": contatti.md

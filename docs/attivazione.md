@@ -1,0 +1,31 @@
+# 2. Attivazione: Sicurezza, Convenzione e Progetto
+
+Prima di iniziare fisicamente l'attività, è obbligatorio completare un iter burocratico e formativo preciso.
+
+## Step 1: Corso sulla Sicurezza
+È **obbligatorio** superare il corso base sulla sicurezza ("Formazione Generale") online su Moodle prima di iniziare[cite: 16].
+Il certificato va conseguito e i suoi estremi serviranno per i documenti successivi[cite: 16].
+
+!!! tip "Portale Moodle Sicurezza"
+    ![Screenshot Moodle Corso Sicurezza](images/corso_sicurezza.png)
+    *Spazio riservato per lo screenshot della piattaforma Moodle con il corso di Formazione Generale.*
+
+## Step 2: La Convenzione Aziendale
+L'azienda ospitante deve possedere una convenzione attiva con UniPD[cite: 15].
+*   Se l'ha già, non deve fare nulla[cite: 15].
+*   Se non l'ha, deve registrarsi online e inviare la convenzione all'Ufficio Career Service prima che tu possa generare il tuo progetto[cite: 15].
+
+## Step 3: Il Progetto Formativo (PF)
+Il Progetto Formativo contiene tutti i dettagli: orari, obiettivi, dati dei tutori e della convenzione[cite: 17]. 
+Se il tirocinio prevede crediti, assicurati che il monte ore rispetti il tuo piano (es. 150 ore per 6 CFU, 225 ore per 9 CFU, per un massimo di 12 mesi)[cite: 8].
+
+**Procedura di compilazione e firma:**
+1.  Concorda i contenuti (obiettivi e orari) con il tutore aziendale e universitario[cite: 18].
+2.  Compila il progetto online tramite il portale UniPD Careers[cite: 18].
+3.  Scarica il documento **esclusivamente in formato PDF/A** (non modificarlo in alcun modo)[cite: 18].
+4.  Invialo all'ente ospitante per fargli apporre la **Firma Digitale (PADES)**[cite: 18].
+5.  Invia il progetto firmato all'Ufficio Career Service (`stage@unipd.it`) **almeno 15 giorni lavorativi prima** della data di inizio[cite: 18].
+
+!!! tip "Procedura E-Sign e OTP"
+    ![Screenshot Portale Firma OTP](images/firma_otp.png)
+    *Spazio riservato per lo screenshot della piattaforma di firma e richiesta OTP via SMS.*
