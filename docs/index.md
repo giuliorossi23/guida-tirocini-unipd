@@ -1,0 +1,1 @@
+![Screenshot Compilazione Progetto Formativo](images/progetto_formativo.png)

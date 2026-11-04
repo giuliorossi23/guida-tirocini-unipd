@@ -1,0 +1,29 @@
+site_name: Guida Tirocini UniPD
+site_description: Guida chiara e operativa per i tirocini degli studenti di Padova
+
+theme:
+  name: material
+  language: it
+  palette:
+    - scheme: default
+      primary: red
+      accent: red
+      toggle:
+        icon: material/brightness-7
+        name: Passa alla modalità scura
+    - scheme: slate
+      primary: red
+      accent: red
+      toggle:
+        icon: material/brightness-4
+        name: Passa alla modalità chiara
+  features:
+    - navigation.top
+    - navigation.instant
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
+  - attr_list
