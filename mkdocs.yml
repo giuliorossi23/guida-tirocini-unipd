@@ -6,13 +6,13 @@ theme:
   language: it
   palette:
     - scheme: default
-      primary: red
+      primary: blue
       accent: red
       toggle:
         icon: material/brightness-7
         name: Passa alla modalità scura
     - scheme: slate
-      primary: red
+      primary: black
       accent: red
       toggle:
         icon: material/brightness-4
