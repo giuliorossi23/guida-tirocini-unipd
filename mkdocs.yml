@@ -6,7 +6,7 @@ theme:
   language: it
   palette:
     - scheme: default
-      primary: blue
+      primary: #9B0014
       accent: red
       toggle:
         icon: material/brightness-7

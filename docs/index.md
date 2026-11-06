@@ -6,13 +6,13 @@ Questa guida nasce per un motivo semplice: spiegarti passo dopo passo cosa fare,
 
 In sintesi, affronteremo il percorso in 4 tappe:
 
-    Trovare l'offerta giusta.
+    1. Trovare l'offerta giusta.
 
-    Preparare le carte.
+    2. Preparare le carte.
 
-    Firmare il Progetto Formativo.
+    3. Firmare il Progetto Formativo.
 
-    Vivere il tirocinio e chiudere con i CFU (o con l'attestato).
+    4. Vivere il tirocinio e chiudere con i CFU (o con l'attestato).
 
 Iniziamo!
 
@@ -31,9 +31,10 @@ L'esperienza coinvolge sempre tre soggetti: il tirocinante (tu), il soggetto osp
 Il soggetto ospitante può essere l'Ateneo stesso, un'azienda, un centro di ricerca o un'altra università.
 
 Puoi trovare le proposte in diversi modi:
-1.  **Vetrina Stage UniPD:** Consulta le bacheche gestite dal Career Service filtrate per corso o area funzionale[cite: 11].
-2.  **Rete dei Docenti e Dipartimento:** Contatta i docenti per conoscere progetti specifici (es. per tirocini legati alla tesi) o consulta le liste dedicate su Moodle/Bacheche[cite: 12, 13].
-3.  **Ricerca Autonoma:** Puoi contattare direttamente un'azienda. Se accetta, dovrà prima stipulare la convenzione con l'Università[cite: 13, 15].
+
+1.  **Vetrina Stage UniPD:** Consulta le bacheche gestite dal Career Service filtrate per corso o area funzionale.
+2.  **Rete dei Docenti e Dipartimento:** Contatta i docenti per conoscere progetti specifici (es. per tirocini legati alla tesi) o consulta le liste dedicate su Moodle/Bacheche.
+3.  **Ricerca Autonoma:** Puoi contattare direttamente un'azienda. Se accetta, dovrà prima stipulare la convenzione con l'Università.
 
 !!! tip "Inviare la Candidatura"
     ![Screenshot Ricerca Offerte Vetrina Stage UniPD](images/ricerca_vetrina.png)
