@@ -29,11 +29,5 @@ markdown_extensions:
   - tables
   - attr_list
 
-nav:
-  - "1. Introduzione e Ricerca": index.md
-  - "2. Attivazione (Sicurezza e Burocrazia)": attivazione.md
-  - "3. Durante e Fine Tirocinio": svolgimento.md
-  - "4. Contatti e Link Utili": contatti.md
-
 extra_css:
   - stylesheets/extra.css
