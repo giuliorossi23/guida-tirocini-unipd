@@ -1,0 +1,6 @@
+:root {
+  /* Colore base (Rosso UniPD) */
+  --md-primary-fg-color:        #9B0014;
+  /* Colore barra in modalità scura */
+  --md-primary-fg-color--dark:  #7A0010;
+}
