@@ -2,5 +2,33 @@
   /* Colore base (Rosso UniPD) */
   --md-primary-fg-color:        #9B0014;
   /* Colore barra in modalità scura */
-  --md-primary-fg-color--dark:  #7A0010;
+  --md-primary-fg-color--dark:  black;
+  /* Colore base dei link (si adatta in automatico al colore del testo normale) */
+  --md-typeset-a-color:         var(--md-text-color);
+  /* Colore dei link (hover) e dei bottoni in modalità chiara */
+  --md-accent-fg-color:         #9B0014;
+  /* Colore dei link (hover) e dei bottoni in modalità scura */
+  --md-accent-fg-color--dark:   #ff0000; /* Un rosso più chiaro per risaltare sul fondo scuro */
+}
+
+/* =========================================
+   PERSONALIZZAZIONE RIQUADRO "TIP"
+   ========================================= */
+
+/* 1. Colore del bordo sinistro */
+.md-typeset .admonition.tip, 
+.md-typeset details.tip {
+  border-color: var(--md-primary-fg-color);
+}
+
+/* 2. Sfondo della barra del titolo (rosso semi-trasparente al 10%) */
+.md-typeset .admonition.tip > .admonition-title, 
+.md-typeset details.tip > summary {
+  background-color: rgba(155, 0, 20, 0.1); 
+}
+
+/* 3. Colore dell'icona a sinistra del titolo */
+.md-typeset .admonition.tip > .admonition-title::before, 
+.md-typeset details.tip > summary::before {
+  background-color: var(--md-primary-fg-color);
 }

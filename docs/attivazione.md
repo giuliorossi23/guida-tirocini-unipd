@@ -1,14 +1,20 @@
 # 2. Attivazione: Sicurezza, Convenzione e Progetto
 
-Prima di iniziare fisicamente l'attività, è obbligatorio completare un iter burocratico e formativo preciso.
+Prima di iniziare fisicamente l'attività, è obbligatorio completare un iter burocratico e formativo preciso. In particolare sono necessari tre passaggi:
 
 ## Step 1: Corso sulla Sicurezza
-È **obbligatorio** superare il corso base sulla sicurezza ("Formazione Generale") online su Moodle prima di iniziare[cite: 16].
-Il certificato va conseguito e i suoi estremi serviranno per i documenti successivi[cite: 16].
+È **obbligatorio** superare il corso base sulla sicurezza, che comprende 4 ore di Formazione Generale, da ottenere tramite un corso online a questo [link](https://elearning.unipd.it/formazione/course/index.php?categoryid=39). Una volta completato, il certificato andrà caricato alla compilazione del progetto formativo. 
 
-!!! tip "Portale Moodle Sicurezza"
-    ![Screenshot Moodle Corso Sicurezza](images/corso_sicurezza.png)
-    *Spazio riservato per lo screenshot della piattaforma Moodle con il corso di Formazione Generale.*
+!!! tip "Corso conseguito con ente esterno"
+    Se hai già ottenuto un certificato tramite un ente esterno, potrai usare direttamente quello, a patto che:
+
+*   Non siano ancora trascorsi 5 anni dal conseguimento, altrimenti il certificato sarà considerato **scaduto**.
+*   Nel caso il corso svolto fosse più grande del corso generale da 4 ore, DEVE contenere gli argomenti del corso generale e avervi dedicato 4 ore.
+
+    In caso di dubbi, consulta la [pagina dedicata](https://www.unipd.it/corsi-formazione-sicurezza) alla voce *verifica attestati pregressi*.
+
+In caso il tirocinio preveda una classe di rischio più alta, l'azienda dovrà fornire, **in aggiunta**, il corso sulla sicurezza corrispettivo. Il alternativa è possibile ottenere i certificati sempre tramite i portali di Unipd.
+
 
 ## Step 2: La Convenzione Aziendale
 L'azienda ospitante deve possedere una convenzione attiva con UniPD[cite: 15].

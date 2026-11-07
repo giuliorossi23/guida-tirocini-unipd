@@ -12,8 +12,8 @@ theme:
         icon: material/brightness-7
         name: Passa alla modalità scura
     - scheme: slate
-      primary: black
-      accent: red
+      primary: custom
+      accent: custom
       toggle:
         icon: material/brightness-4
         name: Passa alla modalità chiara
