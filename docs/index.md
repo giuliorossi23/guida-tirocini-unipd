@@ -36,7 +36,8 @@ Puoi trovare le proposte in diversi modi:
 2.  **Rete dei Docenti e Dipartimento:** Contatta i docenti per conoscere progetti specifici (es. per tirocini legati alla tesi) o consulta le liste dedicate sul Moodle del tuo dipartimento.
 3.  **Ricerca Autonoma:** Puoi contattare direttamente un'azienda. Se accetta, dovrà prima stipulare la [**convenzione**](https://giuliorossi23.github.io/guida-tirocini-unipd/attivazione/) con l'Università.
 
+## Figure di riferimento: tutor
+Per svolgere il tirocinio ti servirà trovare due tutor: 
 
-<!-- !!! tip "Inviare la Candidatura"
-    ![Screenshot Ricerca Offerte Vetrina Stage UniPD](images/ricerca_vetrina.png)
-    *Spazio riservato per lo screenshot della Vetrina Offerte UniPD con filtri attivati.* -->
+1. Il tutor **aziendale**, scelto assieme all'ente ospitante, che sarà incaricato di seguirti durante il tirocinio all'interno dell'azienda.
+2. Il tutor **accademico**, ovvero un professore di Unipd, esperto degli ambiti che affronterai durante il tirocinio, con il quale ti interfaccerai. Cercalo prima di avviare le pratiche burocratiche, perché dovrà darti conferma di essere disponibile.

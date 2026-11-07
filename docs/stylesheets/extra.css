@@ -1,34 +1,52 @@
-:root {
-  /* Colore base (Rosso UniPD) */
-  --md-primary-fg-color:        #9B0014;
-  /* Colore barra in modalità scura */
-  --md-primary-fg-color--dark:  black;
-  /* Colore base dei link (si adatta in automatico al colore del testo normale) */
-  --md-typeset-a-color:         var(--md-text-color);
-  /* Colore dei link (hover) e dei bottoni in modalità chiara */
-  --md-accent-fg-color:         #9B0014;
-  /* Colore dei link (hover) e dei bottoni in modalità scura */
-  --md-accent-fg-color--dark:   #ff0000; /* Un rosso più chiaro per risaltare sul fondo scuro */
+/* =========================================
+   COLORI MODALITÀ CHIARA (Default)
+   ========================================= */
+:root, [data-md-color-scheme="default"] {
+  /* Colore barra in alto */
+  --md-primary-fg-color: #9B0014;
+  /* Colore hover dei link e bottoni */
+  --md-accent-fg-color:  #9B0014;
 }
 
 /* =========================================
-   PERSONALIZZAZIONE RIQUADRO "TIP"
+   COLORI MODALITÀ SCURA (Slate)
    ========================================= */
+[data-md-color-scheme="slate"] {
+  /* Colore barra in alto */
+  --md-primary-fg-color: black;
+  /* Colore hover dei link e bottoni (rosso chiaro) */
+  --md-accent-fg-color:  #ff5757;
+}
 
-/* 1. Colore del bordo sinistro */
+/* =========================================
+   COMPORTAMENTO DEI LINK 
+   (Si mimetizzano col testo, rossi al passaggio del mouse)
+   ========================================= */
+.md-typeset a:not(.md-button) {
+  color: var(--md-text-color) !important;
+}
+
+.md-typeset a:not(.md-button):hover {
+  color: var(--md-accent-fg-color) !important;
+}
+
+/* =========================================
+   PERSONALIZZAZIONE RIQUADRO "TIP" (Sempre Rosso UniPD)
+   ========================================= */
+/* Bordo sinistro */
 .md-typeset .admonition.tip, 
 .md-typeset details.tip {
-  border-color: var(--md-primary-fg-color);
+  border-color: #9B0014 !important;
 }
 
-/* 2. Sfondo della barra del titolo (rosso semi-trasparente al 10%) */
+/* Sfondo della barra del titolo */
 .md-typeset .admonition.tip > .admonition-title, 
 .md-typeset details.tip > summary {
-  background-color: rgba(155, 0, 20, 0.1); 
+  background-color: rgba(155, 0, 20, 0.1) !important; 
 }
 
-/* 3. Colore dell'icona a sinistra del titolo */
+/* Colore dell'icona a sinistra */
 .md-typeset .admonition.tip > .admonition-title::before, 
 .md-typeset details.tip > summary::before {
-  background-color: var(--md-primary-fg-color);
+  background-color: #9B0014 !important;
 }
