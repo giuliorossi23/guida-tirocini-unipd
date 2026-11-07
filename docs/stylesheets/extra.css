@@ -22,13 +22,14 @@
    COMPORTAMENTO DEI LINK 
    (Si mimetizzano col testo, rossi al passaggio del mouse)
    ========================================= */
-.md-typeset a:not(.md-button) {
+
+/* .md-typeset a:not(.md-button) {
   color: var(--md-text-color) !important;
 }
 
 .md-typeset a:not(.md-button):hover {
   color: var(--md-accent-fg-color) !important;
-}
+} */
 
 /* =========================================
    PERSONALIZZAZIONE RIQUADRO "TIP" (Sempre Rosso UniPD)
@@ -49,4 +50,22 @@
 .md-typeset .admonition.tip > .admonition-title::before, 
 .md-typeset details.tip > summary::before {
   background-color: #9B0014 !important;
+}
+
+/* =========================================
+   PERSONALIZZAZIONE TESTO EVIDENZIATO <mark>
+   ========================================= */
+
+/* Stile base (Modalità chiara) */
+.md-typeset mark {
+  background-color: #f0f0f0 !important; /* Grigio chiaro */
+  color: inherit !important; /* Mantiene il colore del testo (nero) */
+  border-radius: 6px !important; /* Angoli arrotondati */
+  padding: 2px 6px !important; /* Spazio per non far toccare il testo ai bordi */
+}
+
+/* Adattamento per la Modalità scura */
+[data-md-color-scheme="slate"] .md-typeset mark {
+  background-color: #3b3b3b !important; /* Grigio scuro per non accecare di notte */
+  color: inherit !important; /* Mantiene il testo bianco */
 }

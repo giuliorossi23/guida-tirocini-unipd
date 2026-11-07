@@ -18,6 +18,7 @@ In caso il tirocinio preveda una classe di rischio più alta, l'azienda dovrà f
 
 ## Step 2: La Convenzione Aziendale
 L'azienda ospitante deve possedere una convenzione attiva con Unipd.
+
 *   Se l'ha già, non deve fare nulla. Puoi verificare se la convenzione sia già attiva chiedendo direttamente all'ente ospitante o cercando il C.F./P.IVA dell'azienda nel portale [Unipd Careers](https://careers.unipd.it/it/#/portale/stage-italia/attivazioni/ricerca-attivazioni-manuali).
 *   Se non l'ha, deve [registrarsi online](https://www.unipd.it/attivare-stage-e-tirocini) e inviare la convenzione all'Ufficio Career Service prima che tu possa generare il tuo progetto formativo. 
 
@@ -44,6 +45,7 @@ Se il tirocinio prevede crediti, assicurati che il monte ore rispetti il tuo pia
 
 
 **Procedura di compilazione e firma:**
+
 1.  Concorda i contenuti (obiettivi e orari) con il tutore aziendale e universitario.
 2.  Compila il progetto online tramite il portale [UniPD Careers](https://careers.unipd.it/it/#/portale/stage-italia/attivazioni/ricerca-attivazioni-manuali).
 3.  Scarica il documento e aggiungi la tua firma.
