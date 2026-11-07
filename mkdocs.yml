@@ -6,8 +6,8 @@ theme:
   language: it
   palette:
     - scheme: default
-      primary: #9B0014
-      accent: red
+      primary: custom
+      accent: custom
       toggle:
         icon: material/brightness-7
         name: Passa alla modalità scura
@@ -34,3 +34,6 @@ nav:
   - "2. Attivazione (Sicurezza e Burocrazia)": attivazione.md
   - "3. Durante e Fine Tirocinio": svolgimento.md
   - "4. Contatti e Link Utili": contatti.md
+
+extra_css:
+  - stylesheets/extra.css

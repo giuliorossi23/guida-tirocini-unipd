@@ -32,10 +32,11 @@ Il soggetto ospitante può essere l'Ateneo stesso, un'azienda, un centro di rice
 
 Puoi trovare le proposte in diversi modi:
 
-1.  **Vetrina Stage UniPD:** Consulta le bacheche gestite dal Career Service filtrate per corso o area funzionale.
-2.  **Rete dei Docenti e Dipartimento:** Contatta i docenti per conoscere progetti specifici (es. per tirocini legati alla tesi) o consulta le liste dedicate su Moodle/Bacheche.
-3.  **Ricerca Autonoma:** Puoi contattare direttamente un'azienda. Se accetta, dovrà prima stipulare la convenzione con l'Università.
+1.  [**Vetrina Stage UniPD:**](https://careers.unipd.it/it/#/portale/stage-italia/offerte/vetrina) Consulta le bacheche gestite dal Career Service filtrate per corso o area funzionale.
+2.  **Rete dei Docenti e Dipartimento:** Contatta i docenti per conoscere progetti specifici (es. per tirocini legati alla tesi) o consulta le liste dedicate sul Moodle del tuo dipartimento.
+3.  **Ricerca Autonoma:** Puoi contattare direttamente un'azienda. Se accetta, dovrà prima stipulare la [convenzione](https://giuliorossi23.github.io/guida-tirocini-unipd/attivazione/) con l'Università.
 
-!!! tip "Inviare la Candidatura"
+
+<!-- !!! tip "Inviare la Candidatura"
     ![Screenshot Ricerca Offerte Vetrina Stage UniPD](images/ricerca_vetrina.png)
-    *Spazio riservato per lo screenshot della Vetrina Offerte UniPD con filtri attivati.*
+    *Spazio riservato per lo screenshot della Vetrina Offerte UniPD con filtri attivati.* -->
