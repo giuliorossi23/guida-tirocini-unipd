@@ -34,6 +34,7 @@ nav:
   - "2. Attivazione (Sicurezza e Burocrazia)": attivazione.md
   - "3. Durante e Fine Tirocinio": svolgimento.md
   - "4. Contatti e Link Utili": contatti.md
+  - "5. Disclaimer e Crediti": crediti.md
 
 extra_css:
   - stylesheets/extra.css

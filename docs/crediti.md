@@ -1,0 +1,18 @@
+# 5. Disclaimer sul sito e crediti
+
+!!! warning "Origine delle informazioni"
+    Non sono un ufficio dell'università e non lavoro per Unipd, tutte le informazioni le ho ottenute cercando da solo per fare il tirocinio io stesso. Ho fatto e farò un solo tirocinio presso Unipd, quindi le informazioni potrebbero essere incomplete e/o poco aggiornate. Verifica i link, i contatti e le informazioni prima di farvi affidamento.
+
+## Aiutami a tenere aggiornato il sito
+
+Puoi aiutarmi a tenere aggiornato il sito e darmi consigli per renderlo più utile per tutti scrivendomi alla mail:
+
+*   [`giulio.rossi.2@studenti.unipd.it`](mailto:giulio.rossi.2@studenti.unipd.it?subject=GUIDA%20TIROCINI%20suggerimenti)
+
+## Donazioni
+
+Se sono riuscito ad evitarti un po' di grattacapi e vuoi supportarmi, puoi farlo cliccando sul tasto qui sotto
+
+[ :simple-kofi: Dona ](https://ko-fi.com/giulio03){ .md-button .md-button--primary target="_blank" }
+
+`Grazie :)`
