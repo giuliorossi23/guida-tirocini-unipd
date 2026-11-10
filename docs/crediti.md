@@ -13,6 +13,6 @@ Puoi aiutarmi a tenere aggiornato il sito e darmi consigli per renderlo più uti
 
 Se sono riuscito ad evitarti un po' di grattacapi e vuoi supportarmi, puoi farlo cliccando sul tasto qui sotto
 
-[Dona :material-heart:](https://ko-fi.com/giulio03){ .cta-button target="_blank" }
+[Dona :material-heart:](https://ko-fi.com/giulio03){ .cta-button .btn-unipd target="_blank" }
 
 `Grazie :)`
