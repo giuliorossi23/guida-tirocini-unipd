@@ -3,7 +3,7 @@
 In caso di necessità o dubbi normativi, non affidarti al passaparola ma contatta direttamente gli uffici preposti.
 
 ## Ufficio Career Service (Ateneo)
-Si occupa della convalida delle convenzioni, dell'attivazione dei progetti formativi e delle variazioni in corso d'opera.
+Si occupa della convalida delle convenzioni, dell'attivazione dei progetti formativi e delle variazioni in corso d'opera. Per approfondire qualunque aspetto sui tirocini ti consiglio di cercare nella pagina ufficiale di Unipd o di contattare l'ufficio stage.
 
 *   **Web:** [www.unipd.it/stage](https://www.unipd.it/stage)
 *   **E-mail:** [`stage@unipd.it`](mailto:stage@unipd.it)

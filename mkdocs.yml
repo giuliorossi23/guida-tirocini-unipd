@@ -1,5 +1,11 @@
 site_name: Guida Tirocini UniPD
 site_description: Guida chiara e operativa per i tirocini degli studenti di Padova
+site_url: https://giuliorossi23.github.io/guida-tirocini-unipd/
+site_author: Giulio Rossi
+
+repo_name: giuliorossi23/guida-tirocini-unipd
+repo_url: https://github.com/giuliorossi23/guida-tirocini-unipd
+edit_uri: edit/main/docs/
 
 theme:
   name: material
@@ -20,7 +26,15 @@ theme:
   features:
     - navigation.tabs
     - navigation.instant
+    - navigation.top
     - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+
+plugins:
+  - search:
+      lang: it
 
 markdown_extensions:
   - attr_list

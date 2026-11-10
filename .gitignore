@@ -5,6 +5,8 @@ site/
 contacts_raw.html
 contacts_simplified.html
 page_stage.html
+Screenshot*.png
+*.tmp
 
 # Ambiente virtuale Python (se ne usi uno locale)
 venv/
