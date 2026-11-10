@@ -70,6 +70,25 @@
   color: inherit !important; /* Mantiene il testo bianco */
 }
 
+/* =========================================
+   PERSONALIZZAZIONI MODALITÀ SCURA (SLATE)
+   ========================================= */
+
+[data-md-color-scheme="slate"] {
+  /* 1. Cambia il colore globale dei link nel testo (Rosso chiaro/pastello per contrasto) */
+  --md-typeset-a-color: #ff7b7b; 
+}
+
+/* 2. Forza la barra superiore (Header) ad essere nera pura */
+[data-md-color-scheme="slate"] .md-header {
+  background-color: #000000 !important;
+}
+
+/* 3. (Opzionale) Effetto hover: rosso ancora più chiaro quando passi sopra il link col mouse */
+[data-md-color-scheme="slate"] .md-typeset a:hover {
+  color: #ff9e9e;
+}
+
 /* Stile personalizzato per il pulsante Donazione UniPd */
 .btn-unipd {
   background-color: #B5121B !important; /* Rosso ufficiale UniPd */
