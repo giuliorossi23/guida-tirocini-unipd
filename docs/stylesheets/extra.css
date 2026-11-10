@@ -164,3 +164,16 @@
   outline: 3px solid #9b0014 !important;
   outline-offset: 3px;
 }
+
+/* =========================================
+   CENTRATURA AL CENTRO DELLO SCHERMO (VIEWPORT)
+   Compensa l'ingombro della barra laterale sinistra su desktop
+   ========================================= */
+@media screen and (min-width: 76.25em) {
+  .md-typeset .cta-button,
+  .md-typeset .btn-unipd,
+  .cta-button,
+  .btn-unipd {
+    transform: translateX(-5.875rem);
+  }
+}
