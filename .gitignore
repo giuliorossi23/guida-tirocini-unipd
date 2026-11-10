@@ -1,0 +1,12 @@
+# Cartella di output di MkDocs
+site/
+
+# File temporanei / scratchpad
+contacts_raw.html
+contacts_simplified.html
+page_stage.html
+
+# Ambiente virtuale Python (se ne usi uno locale)
+venv/
+.venv/
+__pycache__/
