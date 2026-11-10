@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
 /* =========================================
    VARIABILI GLOBALI
    ========================================= */
@@ -96,30 +98,69 @@
   color: #ff9e9e;
 }
 
-.md-typeset .btn-unipd,
-.btn-unipd {
-    background-color: var(--unipd-red) !important;
-    color: white !important;
-    border: none !important;
-    border-radius: 6px;
-    font-weight: bold;
-    display: inline-flex;
-    align-items: center;
-    gap: 0.4em;
-    transition: background-color 0.2s ease;
+/* =========================================
+   PULSANTE DONAZIONI (CTA BUTTON)
+   ========================================= */
+.md-typeset p:has(> .cta-button),
+.md-typeset p:has(> .btn-unipd) {
+  text-align: center;
 }
 
-/* Rende bianca anche l'icona all'interno del bottone */
+.md-typeset .cta-button,
+.md-typeset .btn-unipd,
+.cta-button,
+.btn-unipd {
+  display: flex !important;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  margin: 1.5em auto !important;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4em;
+  padding: 16px 20px !important;
+  font-family: "Poppins", Arial, sans-serif;
+  font-size: 20px !important;
+  font-weight: 700;
+  font-style: normal;
+  line-height: 1.2;
+  color: #ffffff !important;
+  background: #9b0014 !important;
+  border: 0 !important;
+  border-radius: 16px !important;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  text-decoration: none !important;
+  white-space: pre;
+  cursor: pointer;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+/* Icona cuore all'interno del bottone */
+.md-typeset .cta-button .twemoji,
+.md-typeset .cta-button svg,
 .md-typeset .btn-unipd .twemoji,
 .md-typeset .btn-unipd svg,
+.cta-button .twemoji,
+.cta-button svg,
 .btn-unipd .twemoji,
 .btn-unipd svg {
-    fill: white !important;
-    color: white !important;
+  fill: #ffffff !important;
+  color: #ffffff !important;
 }
 
+.md-typeset .cta-button:hover,
 .md-typeset .btn-unipd:hover,
+.cta-button:hover,
 .btn-unipd:hover {
-    background-color: #7a1215 !important;
-    color: white !important;
+  background: #880012 !important;
+  color: #ffffff !important;
+}
+
+.md-typeset .cta-button:focus-visible,
+.md-typeset .btn-unipd:focus-visible,
+.cta-button:focus-visible,
+.btn-unipd:focus-visible {
+  outline: 3px solid #9b0014 !important;
+  outline-offset: 3px;
 }
