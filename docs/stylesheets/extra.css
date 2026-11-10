@@ -89,27 +89,26 @@
   color: #ff9e9e;
 }
 
-/* Stile personalizzato per il pulsante Donazione UniPd */
 .btn-unipd {
-  background-color: #B5121B !important; /* Rosso ufficiale UniPd */
-  color: #FFFFFF !important;            /* Scritta e icona bianche */
-  border-radius: 12px !important;       /* Angoli più arrotondati */
-  padding: 12px 32px !important;        /* Più grande e spazioso */
-  font-size: 1.1em !important;          /* Testo ingrandito */
-  font-weight: bold;
-  border: none !important;
-  
-  /* Proprietà per centrare il pulsante */
-  display: table;
-  margin: 2em auto !important;          /* Il 'margin auto' centra l'elemento */
-  
-  /* Effetto transizione fluida */
-  transition: transform 0.2s ease, background-color 0.2s ease;
+    background-color: var(--unipd-red);
+    color: white !important;
+    border: none;
+    border-radius: 6px;
+    font-weight: bold;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4em;
+    transition: background-color 0.2s ease;
 }
 
-/* Effetto quando il mouse passa sopra (hover) */
+/* Rende bianca anche l'icona all'interno del bottone */
+.btn-unipd .twemoji,
+.btn-unipd svg {
+    fill: white !important;
+    color: white !important;
+}
+
 .btn-unipd:hover {
-  background-color: #8c0e15 !important; /* Rosso leggermente più scuro */
-  color: #ffffff !important;
-  transform: scale(1.05);               /* Leggero ingrandimento */
+    background-color: #7a1215;
+    color: white !important;
 }

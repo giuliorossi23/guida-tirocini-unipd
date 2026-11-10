@@ -2,7 +2,7 @@
 
 ## Durante il periodo di attività
 Il tirocinante svolge le attività previste riportando periodicamente i risultati al tutore universitario.
-Tutte le variazioni in corso d'opera (proroghe, interruzioni anticipate, trasferte in altre sedi, trasferte all'estero) **devono essere comunicate all'[Ufficio Career Service](stage@unipd.it) via e-mail** dal soggetto ospitante. Questo è fondamentale per mantenere valida la [copertura assicurativa](https://www.unipd.it/assicurazione).
+Tutte le variazioni in corso d'opera (proroghe, interruzioni anticipate, trasferte in altre sedi, trasferte all'estero) **devono essere comunicate all'[Ufficio Career Service](mailto:stage@unipd.it) via e-mail** dal soggetto ospitante. Questo è fondamentale per mantenere valida la [copertura assicurativa](https://www.unipd.it/assicurazione).
 
 ### Riconoscimento del Lavoro come Tirocinio
 Se hai già un'attività lavorativa in corso, puoi chiederne il riconoscimento al posto del tirocinio curriculare a patto che:
