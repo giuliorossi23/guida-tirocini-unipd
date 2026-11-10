@@ -1,4 +1,11 @@
 /* =========================================
+   VARIABILI GLOBALI
+   ========================================= */
+:root {
+  --unipd-red: #B5121B;
+}
+
+/* =========================================
    COLORI MODALITÀ CHIARA (Default)
    ========================================= */
 :root, [data-md-color-scheme="default"] {
@@ -89,10 +96,11 @@
   color: #ff9e9e;
 }
 
+.md-typeset .btn-unipd,
 .btn-unipd {
-    background-color: var(--unipd-red);
+    background-color: var(--unipd-red) !important;
     color: white !important;
-    border: none;
+    border: none !important;
     border-radius: 6px;
     font-weight: bold;
     display: inline-flex;
@@ -102,13 +110,16 @@
 }
 
 /* Rende bianca anche l'icona all'interno del bottone */
+.md-typeset .btn-unipd .twemoji,
+.md-typeset .btn-unipd svg,
 .btn-unipd .twemoji,
 .btn-unipd svg {
     fill: white !important;
     color: white !important;
 }
 
+.md-typeset .btn-unipd:hover,
 .btn-unipd:hover {
-    background-color: #7a1215;
+    background-color: #7a1215 !important;
     color: white !important;
 }
