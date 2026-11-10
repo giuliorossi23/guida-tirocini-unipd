@@ -5,7 +5,6 @@ site_author: Giulio Rossi
 
 repo_name: giuliorossi23/guida-tirocini-unipd
 repo_url: https://github.com/giuliorossi23/guida-tirocini-unipd
-edit_uri: edit/main/docs/
 
 theme:
   name: material
@@ -30,7 +29,6 @@ theme:
     - toc.integrate
     - search.suggest
     - search.highlight
-    - content.action.edit
 
 plugins:
   - search:

@@ -49,16 +49,12 @@ Se vuoi visualizzare il sito sul tuo computer prima di pubblicare modifiche:
 
 ---
 
-## 🤝 Come contribuire
+## 🤝 Come segnalare aggiornamenti o refusi
 
-Le procedure universitarie cambiano spesso! Se noti un link rotto, una tempistica non aggiornata o vuoi aggiungere un chiarimento utile per altri studenti:
+Le procedure universitarie cambiano spesso! Se noti un link non più funzionante, una tempistica variata o desideri suggerire un chiarimento:
 
-1. Apri una **[Issue](https://github.com/giuliorossi23/guida-tirocini-unipd/issues)** per segnalare il problema o discutere un'integrazione.
-2. Oppure crea una **Pull Request**:
-   * Fai una copia (*Fork*) della repository.
-   * Crea un branch per la tua modifica (`git checkout -b fix/aggiornamento-contatti`).
-   * Committa le modifiche (`git commit -m "Aggiornato contatto stage dipartimento"`).
-   * Esegui il push e apri una *Pull Request*.
+* Invia una mail a: [`giulio.rossi.2@studenti.unipd.it`](mailto:giulio.rossi.2@studenti.unipd.it?subject=GUIDA%20TIROCINI%20suggerimenti)
+* Oppure apri una **[Issue](https://github.com/giuliorossi23/guida-tirocini-unipd/issues)** su GitHub descrivendo la correzione suggerita.
 
 ---
 
