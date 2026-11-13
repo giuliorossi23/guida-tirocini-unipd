@@ -10,7 +10,6 @@ Screenshot*.png
 avvio.bat
 *.bat
 Comandi di avvio.txt
-*.gitignore
 
 # Ambiente virtuale Python (se ne usi uno locale)
 venv/

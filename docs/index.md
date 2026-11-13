@@ -11,11 +11,14 @@ In sintesi, affronteremo il percorso in 4 tappe:
 3. Firmare il Progetto Formativo.
 4. Vivere il tirocinio e chiudere con i CFU (o con l'attestato).
 
+!!! question "Navigazione da mobile"
+    Se stai visualizzando questo sito in versione mobile, clicca l'icona del menù in alto a sinistra per spostarti tra le pagine.
+
 Iniziamo!
 
 ## Cos'è un tirocinio?
 Il tirocinio è **un periodo di formazione e orientamento al lavoro che non costituisce un rapporto di lavoro subordinato**, ovvero è un periodo che serve per imparare un lavoro o acquisire esperienza, ma non equivale ad essere dipendente di un'azienda.
-L'esperienza coinvolge sempre tre soggetti: il tirocinante (tu), il soggetto ospitante (con il tutore aziendale) e l'Università come soggetto promotore (con il tutore universitario).
+L'esperienza coinvolge sempre tre soggetti: il tirocinante (tu), il soggetto ospitante (con il tutor aziendale) e l'Università come soggetto promotore (con il tutor universitario).
 
 ## Tipologie di Tirocinio
 *   **Curriculare (per studenti):** Svolto durante il corso di studi. Può prevedere l'acquisizione di Crediti Formativi Universitari (CFU) registrati in carriera senza voto.

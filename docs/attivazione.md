@@ -30,7 +30,7 @@ L'azienda ospitante deve possedere una convenzione attiva con Unipd.
 
 
 ## Step 3: Il Progetto Formativo
-Il Progetto Formativo contiene tutti i dettagli: orari, obiettivi, dati dei tutori e della convenzione. 
+Il Progetto Formativo contiene tutti i dettagli: orari, obiettivi, dati dei tutor e della convenzione. 
 Se il tirocinio prevede crediti, assicurati che il monte ore rispetti il tuo piano. Si ricorda che l'equivalenza è <mark>25 ore = 1 CFU</mark> (es. 150 ore per 6 CFU, 225 ore per 9 CFU), per un massimo di 12 mesi.
 
 **Voci da inserire nel progetto formativo:**
