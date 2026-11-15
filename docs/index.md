@@ -2,7 +2,7 @@
 
 Fare un tirocinio durante (o subito dopo) l'università a Padova non dovrebbe essere un esercizio di sopravvivenza burocratica. Eppure, tra convenzioni, crediti, istruzioni sparpagliate su più pagine web, è facilissimo perdersi.
 
-Questa guida nasce per un motivo semplice: spiegarti passo dopo passo cosa fare, quando farlo e dove cliccare, perché fare uno stage possa essere l'occasione di crescita personale che dovrebbe essere, anziché un generatore di rancore.
+Questa guida *non ufficiale* nasce per un motivo semplice: spiegarti passo dopo passo cosa fare, quando farlo e dove cliccare, perché fare uno stage possa essere l'occasione di crescita personale che dovrebbe essere, anziché un generatore di rancore.
 
 In sintesi, affronteremo il percorso in 4 tappe:
 
@@ -34,7 +34,7 @@ Puoi trovare le proposte in diversi modi:
 
 1.  [**Vetrina Stage UniPD:**](https://careers.unipd.it/it/#/portale/stage-italia/offerte/vetrina) Consulta le bacheche gestite dal Career Service filtrate per corso o area funzionale.
 2.  **Rete dei Docenti e Dipartimento:** Contatta i docenti per conoscere progetti specifici (es. per tirocini legati alla tesi) o consulta le liste dedicate sul Moodle del tuo dipartimento.
-3.  **Ricerca Autonoma:** Puoi contattare direttamente un'azienda. Se accetta, dovrà prima stipulare la [**convenzione**](attivazione.md#step-2-la-convenzione-aziendale) con l'Università.
+3.  **Ricerca Autonoma:** Puoi contattare direttamente un'azienda. Se accetta, dovrà prima stipulare la [**convenzione**](attivazione.md#step-2-la-convenzione-aziendale) con l'Università. Personalmente ti consiglio di chiedere anche ad amici e parenti, che potrebbero avere qualche contatto utile.
 
 ## Figure di riferimento: tutor
 Per svolgere il tirocinio ti servirà trovare due tutor: 

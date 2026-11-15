@@ -1,9 +1,18 @@
 # 2. Attivazione: Sicurezza, Convenzione e Progetto
 
-Prima di iniziare fisicamente l'attività, è obbligatorio completare un iter burocratico e formativo preciso. In particolare sono necessari tre passaggi: superare il corso sulla sicurezza, stipulare l'eventuale convenzione aziendale e stringere il patto formativo.
+Prima di iniziare fisicamente l'attività, è obbligatorio completare un iter burocratico e formativo preciso. In particolare sono necessari tre passaggi: superare il corso sulla sicurezza, stipulare l'eventuale convenzione aziendale e stringere il patto formativo. Ti sarà inoltre fondamentale aver compilato un curriculum.
 
 !!! warning "Prendersi per tempo"
     Queste procedure sono quelle che richiedono TEMPO. Inizia a muoverti almeno un mese prima dell'inizio del tirocinio, perché serviranno **1 settimana** per accettare la convenzione aziendale e **3 settimane** per accettare il progetto formativo.
+
+## Step 0: Curriculum
+Per instaurare un rapporto con qualunque azienda è ormai fondamentale aver creato il proprio curriculum. Non è necessario avere un curriculum particolarmente denso, anche perché è raro che uno studente abbia già lavorato nel suo ambito prima di finire l'università. È necessario però scrivere un curriculum dignitoso, ordinato, che metta in mostra le competenze che finora hai acquisito, comprese le soft-kills. Alcuni consigli generali sono:
+
+*   Cercare di stilare almeno una facciata. In mancanza di esperienze rilevanti può essere molto utile inserire i progetti personali e le proprie skills, anche a livello di lingue, esperienza con applicazioni specifiche e strumentazione utilizzata nel proprio ambito.
+*   **Evitare** di inserire esperienze lavorative che non riguardano il proprio ambito, o quantomeno evitare di darvi particolare peso. Ad esempio per uno studente dell'ambito scientifico è controproducente riempire mezzo curriculum con un'esperienza lavorativa in pizzeria o di lavoro stagionale. Ha senso citarla giusto per far notare eventuali abilità acquisite che siano utili in ogni ambito, altrimenti si dà solo l'idea di non aver saputo cosa scrivere.
+*   Per gli studenti di ambito scientifico è ormai indispensabile scrivere il CV in Inglese, o quantomeno produrne due versioni, una italiana e una inglese.
+
+Ti consiglio infine di cercare un template, che ti risparmierà energie mentali e ti darà già una traccia ordinata. Un'altra possibilità, necessaria nel caso tu voglia cercare una convenzione dal portale Unipd Careers, è quella di compilare proprio il modello che si trova nel [portale]{https://careers.unipd.it/it/#/portale/stage-italia/candidati/ricerca/modifica}.
 
 ## Step 1: Corso sulla Sicurezza
 È **obbligatorio** superare il corso base sulla sicurezza, che comprende 4 ore di Formazione Generale, da ottenere tramite un corso online a questo [link](https://elearning.unipd.it/formazione/course/index.php?categoryid=39). Una volta completato, il certificato andrà caricato alla compilazione del progetto formativo. 
