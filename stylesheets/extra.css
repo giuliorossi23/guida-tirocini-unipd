@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+/* =========================================
+   VARIABILI GLOBALI
+   ========================================= */
+:root {
+  --unipd-red: #B5121B;
+}
+
+/* =========================================
+   COLORI MODALITÀ CHIARA (Default)
+   ========================================= */
+:root, [data-md-color-scheme="default"] {
+  /* Colore barra in alto */
+  --md-primary-fg-color: #9B0014;
+  /* Colore hover dei link e bottoni */
+  --md-accent-fg-color:  #9B0014;
+}
+
+/* =========================================
+   COLORI MODALITÀ SCURA (Slate)
+   ========================================= */
+[data-md-color-scheme="slate"] {
+  /* Colore barra in alto */
+  --md-primary-fg-color: black;
+  /* Colore hover dei link e bottoni (rosso chiaro) */
+  --md-accent-fg-color:  #ff5757;
+}
+
+/* =========================================
+   COMPORTAMENTO DEI LINK 
+   (Si mimetizzano col testo, rossi al passaggio del mouse)
+   ========================================= */
+
+/* .md-typeset a:not(.md-button) {
+  color: var(--md-text-color) !important;
+}
+
+.md-typeset a:not(.md-button):hover {
+  color: var(--md-accent-fg-color) !important;
+} */
+
+/* =========================================
+   PERSONALIZZAZIONE RIQUADRO "TIP" (Sempre Rosso UniPD)
+   ========================================= */
+/* Bordo sinistro */
+.md-typeset .admonition.tip, 
+.md-typeset details.tip {
+  border-color: #9B0014 !important;
+}
+
+/* Sfondo della barra del titolo */
+.md-typeset .admonition.tip > .admonition-title, 
+.md-typeset details.tip > summary {
+  background-color: rgba(155, 0, 20, 0.1) !important; 
+}
+
+/* Colore dell'icona a sinistra */
+.md-typeset .admonition.tip > .admonition-title::before, 
+.md-typeset details.tip > summary::before {
+  background-color: #9B0014 !important;
+}
+
+/* =========================================
+   PERSONALIZZAZIONE TESTO EVIDENZIATO <mark>
+   ========================================= */
+
+/* Stile base (Modalità chiara) */
+.md-typeset mark {
+  background-color: #f0f0f0 !important; /* Grigio chiaro */
+  color: inherit !important; /* Mantiene il colore del testo (nero) */
+  border-radius: 6px !important; /* Angoli arrotondati */
+  padding: 2px 6px !important; /* Spazio per non far toccare il testo ai bordi */
+}
+
+/* Adattamento per la Modalità scura */
+[data-md-color-scheme="slate"] .md-typeset mark {
+  background-color: #3b3b3b !important; /* Grigio scuro per non accecare di notte */
+  color: inherit !important; /* Mantiene il testo bianco */
+}
+
+/* =========================================
+   PERSONALIZZAZIONI MODALITÀ SCURA (SLATE)
+   ========================================= */
+
+[data-md-color-scheme="slate"] {
+  /* 1. Cambia il colore globale dei link nel testo (Rosso chiaro/pastello per contrasto) */
+  --md-typeset-a-color: #ff7b7b; 
+}
+
+/* 2. Forza la barra superiore (Header) ad essere nera pura */
+[data-md-color-scheme="slate"] .md-header {
+  background-color: #000000 !important;
+}
+
+/* 3. (Opzionale) Effetto hover: rosso ancora più chiaro quando passi sopra il link col mouse */
+[data-md-color-scheme="slate"] .md-typeset a:hover {
+  color: #ff9e9e;
+}
+
+/* =========================================
+   PULSANTE DONAZIONI (CTA BUTTON)
+   ========================================= */
+.md-typeset p:has(> .cta-button),
+.md-typeset p:has(> .btn-unipd) {
+  text-align: center;
+}
+
+.md-typeset .cta-button,
+.md-typeset .btn-unipd,
+.cta-button,
+.btn-unipd {
+  display: flex !important;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  margin: 1.5em auto !important;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4em;
+  padding: 16px 20px !important;
+  font-family: "Poppins", Arial, sans-serif;
+  font-size: 20px !important;
+  font-weight: 700;
+  font-style: normal;
+  line-height: 1.2;
+  color: #ffffff !important;
+  background: #9b0014 !important;
+  border: 0 !important;
+  border-radius: 16px !important;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  text-decoration: none !important;
+  white-space: pre;
+  cursor: pointer;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+/* Icona cuore all'interno del bottone */
+.md-typeset .cta-button .twemoji,
+.md-typeset .cta-button svg,
+.md-typeset .btn-unipd .twemoji,
+.md-typeset .btn-unipd svg,
+.cta-button .twemoji,
+.cta-button svg,
+.btn-unipd .twemoji,
+.btn-unipd svg {
+  fill: #ffffff !important;
+  color: #ffffff !important;
+}
+
+.md-typeset .cta-button:hover,
+.md-typeset .btn-unipd:hover,
+.cta-button:hover,
+.btn-unipd:hover {
+  background: #880012 !important;
+  color: #ffffff !important;
+}
+
+.md-typeset .cta-button:focus-visible,
+.md-typeset .btn-unipd:focus-visible,
+.cta-button:focus-visible,
+.btn-unipd:focus-visible {
+  outline: 3px solid #9b0014 !important;
+  outline-offset: 3px;
+}
+
+/* =========================================
+   CENTRATURA AL CENTRO DELLO SCHERMO (VIEWPORT)
+   Compensa l'ingombro della barra laterale sinistra su desktop
+   ========================================= */
+@media screen and (min-width: 76.25em) {
+  .md-typeset .cta-button,
+  .md-typeset .btn-unipd,
+  .cta-button,
+  .btn-unipd {
+    transform: translateX(-5.875rem);
+  }
+}
